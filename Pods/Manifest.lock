@@ -1,0 +1,88 @@
+PODS:
+  - AEXML (4.0.1)
+  - Alamofire (4.3.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - AlamofireXMLRPC (2.1.0):
+    - AEXML
+    - Alamofire
+  - HTMLString (2.1.2)
+  - RestEssentials (3.0.0)
+  - StringExtensionHTML (0.2.0)
+  - SwiftyJSON (3.1.4)
+  - SWXMLHash (3.0.3)
+
+DEPENDENCIES:
+  - AEXML (from `https://github.com/tadija/AEXML.git`)
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`)
+  - AlamofireImage (from `https://github.com/Alamofire/AlamofireImage.git`)
+  - AlamofireXMLRPC (from `https://github.com/kodlian/AlamofireXMLRPC.git`)
+  - HTMLString (from `https://github.com/alexaubry/HTMLString.git`)
+  - RestEssentials (from `https://github.com/sean7512/RestEssentials.git`)
+  - StringExtensionHTML (from `https://github.com/adela-chang/StringExtensionHTML.git`)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+  - SWXMLHash (from `https://github.com/drmohundro/SWXMLHash.git`)
+
+EXTERNAL SOURCES:
+  AEXML:
+    :git: https://github.com/tadija/AEXML.git
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+  AlamofireImage:
+    :git: https://github.com/Alamofire/AlamofireImage.git
+  AlamofireXMLRPC:
+    :git: https://github.com/kodlian/AlamofireXMLRPC.git
+  HTMLString:
+    :git: https://github.com/alexaubry/HTMLString.git
+  RestEssentials:
+    :git: https://github.com/sean7512/RestEssentials.git
+  StringExtensionHTML:
+    :git: https://github.com/adela-chang/StringExtensionHTML.git
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+  SWXMLHash:
+    :git: https://github.com/drmohundro/SWXMLHash.git
+
+CHECKOUT OPTIONS:
+  AEXML:
+    :commit: 5255f93a2e08996f0e9805b154b1b50a6368137b
+    :git: https://github.com/tadija/AEXML.git
+  Alamofire:
+    :commit: c9c9d091b308a57ff9a744be4f2537ac9c5b4c0b
+    :git: https://github.com/Alamofire/Alamofire.git
+  AlamofireImage:
+    :commit: a4d4c0e36c3f17a80ad89687348bedbc523bba11
+    :git: https://github.com/Alamofire/AlamofireImage.git
+  AlamofireXMLRPC:
+    :commit: e00482d6e468a3e3d2834f552ec5c71e251f2b3f
+    :git: https://github.com/kodlian/AlamofireXMLRPC.git
+  HTMLString:
+    :commit: 3ba1a656d216736023415535fea5734e7617b611
+    :git: https://github.com/alexaubry/HTMLString.git
+  RestEssentials:
+    :commit: 4d443c777ba65d80ed146f61dfb058888f8b7b97
+    :git: https://github.com/sean7512/RestEssentials.git
+  StringExtensionHTML:
+    :commit: 427eed531e19ddc24c0024bfa73ca78c280a1ced
+    :git: https://github.com/adela-chang/StringExtensionHTML.git
+  SwiftyJSON:
+    :commit: adf34cfb4c9f2ff4e3c420c6d9fb1e2eaf3b3791
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+  SWXMLHash:
+    :commit: 022f2cba2409a155e78693eb0e18677bb85ffb35
+    :git: https://github.com/drmohundro/SWXMLHash.git
+
+SPEC CHECKSUMS:
+  AEXML: 905e50474c0a261d335aa8be4ee32d22d69b6fd5
+  Alamofire: 1f72088aff8f6b40828dadd61be2e9a31beca01e
+  AlamofireImage: 0ff319da83d6abb78a661d7296e742e7f65e15f5
+  AlamofireXMLRPC: 9ac52fb02b61c854b762b825759995cdda91cb20
+  HTMLString: 81c4847e292b13fdeb82af9a4a1b173a140e9a52
+  RestEssentials: 5f82f9e77a712efef38fb4b139bb7b5f93b25d18
+  StringExtensionHTML: 1eb6a5a7cc65fe1d95e83743a592c95f95f20452
+  SwiftyJSON: 05cf0e98a950e2ba343735264f5a96b81e755d00
+  SWXMLHash: 7c79b6a748c9f74e36c776eaa863381013504d10
+
+PODFILE CHECKSUM: b456b1fba8a260f3f4be1c625391c60b1ed05a39
+
+COCOAPODS: 1.2.0.beta.1
